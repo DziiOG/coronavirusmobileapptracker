@@ -1,0 +1,17 @@
+{
+  "name": "coronatrackermobile",
+  "displayName": "coronatrackermobile",
+  "expo": {
+    "name": "coronatrackermobile",
+    "slug": "coronatrackermobile",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
